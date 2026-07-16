@@ -1,0 +1,7 @@
+Z:\EC2\projetosC#\recursividade\exercicio1\exercicio1\bin\Debug\exercicio1.exe.config
+Z:\EC2\projetosC#\recursividade\exercicio1\exercicio1\bin\Debug\exercicio1.exe
+Z:\EC2\projetosC#\recursividade\exercicio1\exercicio1\bin\Debug\exercicio1.pdb
+Z:\EC2\projetosC#\recursividade\exercicio1\exercicio1\obj\Debug\exercicio1.csproj.AssemblyReference.cache
+Z:\EC2\projetosC#\recursividade\exercicio1\exercicio1\obj\Debug\exercicio1.csproj.CoreCompileInputs.cache
+Z:\EC2\projetosC#\recursividade\exercicio1\exercicio1\obj\Debug\exercicio1.exe
+Z:\EC2\projetosC#\recursividade\exercicio1\exercicio1\obj\Debug\exercicio1.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\EC2\\projetosC#\\N2_Algoritmo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3256383-9C1C-46FB-858C-4A0F37EAF868}|N2_Algoritmo\\N2_Algoritmo.csproj|z:\\ec2\\projetosc#\\n2_algoritmo\\n2_algoritmo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3256383-9C1C-46FB-858C-4A0F37EAF868}|N2_Algoritmo\\N2_Algoritmo.csproj|solutionrelative:n2_algoritmo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\EC2\\projetosC#\\N2_Algoritmo\\N2_Algoritmo\\Program.cs",
+              "RelativeDocumentMoniker": "N2_Algoritmo\\Program.cs",
+              "ToolTip": "Z:\\EC2\\projetosC#\\N2_Algoritmo\\N2_Algoritmo\\Program.cs",
+              "RelativeToolTip": "N2_Algoritmo\\Program.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAqwFABAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T22:18:50.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

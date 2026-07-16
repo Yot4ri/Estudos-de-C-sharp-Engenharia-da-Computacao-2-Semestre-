@@ -1,0 +1,15 @@
+Z:\EC2\projetosC#\atividadeSort\exercicio2\exercicio2\bin\Debug\exercicio2.exe.config
+Z:\EC2\projetosC#\atividadeSort\exercicio2\exercicio2\bin\Debug\exercicio2.exe
+Z:\EC2\projetosC#\atividadeSort\exercicio2\exercicio2\bin\Debug\exercicio2.pdb
+Z:\EC2\projetosC#\atividadeSort\exercicio2\exercicio2\obj\Debug\exercicio2.csproj.AssemblyReference.cache
+Z:\EC2\projetosC#\atividadeSort\exercicio2\exercicio2\obj\Debug\exercicio2.csproj.CoreCompileInputs.cache
+Z:\EC2\projetosC#\atividadeSort\exercicio2\exercicio2\obj\Debug\exercicio2.exe
+Z:\EC2\projetosC#\atividadeSort\exercicio2\exercicio2\obj\Debug\exercicio2.pdb
+Z:\EC2\projetosC#\atividadeSort\exercicio2\exercicio2\obj\Debug\exercicio2.exe.config
+C:\Users\Admin\Desktop\atividadeSort\exercicio2\exercicio2\bin\Debug\exercicio2.exe.config
+C:\Users\Admin\Desktop\atividadeSort\exercicio2\exercicio2\bin\Debug\exercicio2.exe
+C:\Users\Admin\Desktop\atividadeSort\exercicio2\exercicio2\bin\Debug\exercicio2.pdb
+C:\Users\Admin\Desktop\atividadeSort\exercicio2\exercicio2\obj\Debug\exercicio2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\atividadeSort\exercicio2\exercicio2\obj\Debug\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\atividadeSort\exercicio2\exercicio2\obj\Debug\exercicio2.exe
+C:\Users\Admin\Desktop\atividadeSort\exercicio2\exercicio2\obj\Debug\exercicio2.pdb

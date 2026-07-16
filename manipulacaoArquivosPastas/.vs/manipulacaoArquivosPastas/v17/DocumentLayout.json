@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\EC2\\projetosC#\\manipulacaoArquivosPastas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5687FE26-749D-4C2C-8F2D-F68102662A84}|manipulacaoArquivosPastas\\manipulacaoArquivosPastas.csproj|z:\\ec2\\projetosc#\\manipulacaoarquivospastas\\manipulacaoarquivospastas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5687FE26-749D-4C2C-8F2D-F68102662A84}|manipulacaoArquivosPastas\\manipulacaoArquivosPastas.csproj|solutionrelative:manipulacaoarquivospastas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\EC2\\projetosC#\\manipulacaoArquivosPastas\\manipulacaoArquivosPastas\\Program.cs",
+              "RelativeDocumentMoniker": "manipulacaoArquivosPastas\\Program.cs",
+              "ToolTip": "Z:\\EC2\\projetosC#\\manipulacaoArquivosPastas\\manipulacaoArquivosPastas\\Program.cs",
+              "RelativeToolTip": "manipulacaoArquivosPastas\\Program.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAKEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T00:48:58.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

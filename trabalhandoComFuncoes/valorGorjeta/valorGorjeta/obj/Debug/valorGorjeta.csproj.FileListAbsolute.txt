@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\valorGorjeta\valorGorjeta\obj\Debug\valorGorjeta.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\valorGorjeta\valorGorjeta\obj\Debug\valorGorjeta.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\valorGorjeta\valorGorjeta\bin\Debug\valorGorjeta.exe.config
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\valorGorjeta\valorGorjeta\bin\Debug\valorGorjeta.exe
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\valorGorjeta\valorGorjeta\bin\Debug\valorGorjeta.pdb
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\valorGorjeta\valorGorjeta\obj\Debug\valorGorjeta.exe
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\valorGorjeta\valorGorjeta\obj\Debug\valorGorjeta.pdb

@@ -1,0 +1,8 @@
+Z:\EC2\projetosC#\N2_Algoritmo\N2_Algoritmo\bin\Debug\N2_Algoritmo.exe.config
+Z:\EC2\projetosC#\N2_Algoritmo\N2_Algoritmo\bin\Debug\N2_Algoritmo.exe
+Z:\EC2\projetosC#\N2_Algoritmo\N2_Algoritmo\bin\Debug\N2_Algoritmo.pdb
+Z:\EC2\projetosC#\N2_Algoritmo\N2_Algoritmo\obj\Debug\N2_Algoritmo.csproj.AssemblyReference.cache
+Z:\EC2\projetosC#\N2_Algoritmo\N2_Algoritmo\obj\Debug\N2_Algoritmo.csproj.CoreCompileInputs.cache
+Z:\EC2\projetosC#\N2_Algoritmo\N2_Algoritmo\obj\Debug\N2_Algoritmo.exe
+Z:\EC2\projetosC#\N2_Algoritmo\N2_Algoritmo\obj\Debug\N2_Algoritmo.pdb
+Z:\EC2\projetosC#\N2_Algoritmo\N2_Algoritmo\obj\Debug\N2_Algoritmo.exe.config

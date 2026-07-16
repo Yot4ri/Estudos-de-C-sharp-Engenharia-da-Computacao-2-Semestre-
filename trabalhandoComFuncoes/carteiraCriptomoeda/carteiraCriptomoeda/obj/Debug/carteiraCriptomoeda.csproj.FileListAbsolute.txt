@@ -1,0 +1,15 @@
+Z:\EC2\projetosC#\trabalhandoComFuncoes\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\obj\Debug\carteiraCriptomoeda.csproj.AssemblyReference.cache
+Z:\EC2\projetosC#\trabalhandoComFuncoes\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\obj\Debug\carteiraCriptomoeda.csproj.CoreCompileInputs.cache
+Z:\EC2\projetosC#\trabalhandoComFuncoes\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\bin\Debug\carteiraCriptomoeda.exe.config
+Z:\EC2\projetosC#\trabalhandoComFuncoes\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\bin\Debug\carteiraCriptomoeda.exe
+Z:\EC2\projetosC#\trabalhandoComFuncoes\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\bin\Debug\carteiraCriptomoeda.pdb
+Z:\EC2\projetosC#\trabalhandoComFuncoes\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\obj\Debug\carteiraCriptomoeda.exe
+Z:\EC2\projetosC#\trabalhandoComFuncoes\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\obj\Debug\carteiraCriptomoeda.pdb
+Z:\EC2\projetosC#\trabalhandoComFuncoes\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\obj\Debug\carteiraCriptomoeda.exe.config
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\bin\Debug\carteiraCriptomoeda.exe.config
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\bin\Debug\carteiraCriptomoeda.exe
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\bin\Debug\carteiraCriptomoeda.pdb
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\obj\Debug\carteiraCriptomoeda.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\obj\Debug\carteiraCriptomoeda.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\obj\Debug\carteiraCriptomoeda.exe
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\carteiraCriptomoeda\carteiraCriptomoeda\obj\Debug\carteiraCriptomoeda.pdb

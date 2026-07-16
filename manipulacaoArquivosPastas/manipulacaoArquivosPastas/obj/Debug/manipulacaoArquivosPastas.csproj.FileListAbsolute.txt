@@ -1,0 +1,8 @@
+Z:\EC2\projetosC#\manipulacaoArquivosPastas\manipulacaoArquivosPastas\obj\Debug\manipulacaoArquivosPastas.csproj.AssemblyReference.cache
+Z:\EC2\projetosC#\manipulacaoArquivosPastas\manipulacaoArquivosPastas\obj\Debug\manipulacaoArquivosPastas.csproj.CoreCompileInputs.cache
+Z:\EC2\projetosC#\manipulacaoArquivosPastas\manipulacaoArquivosPastas\bin\Debug\manipulacaoArquivosPastas.exe.config
+Z:\EC2\projetosC#\manipulacaoArquivosPastas\manipulacaoArquivosPastas\bin\Debug\manipulacaoArquivosPastas.exe
+Z:\EC2\projetosC#\manipulacaoArquivosPastas\manipulacaoArquivosPastas\bin\Debug\manipulacaoArquivosPastas.pdb
+Z:\EC2\projetosC#\manipulacaoArquivosPastas\manipulacaoArquivosPastas\obj\Debug\manipulacaoArquivosPastas.exe
+Z:\EC2\projetosC#\manipulacaoArquivosPastas\manipulacaoArquivosPastas\obj\Debug\manipulacaoArquivosPastas.pdb
+Z:\EC2\projetosC#\manipulacaoArquivosPastas\manipulacaoArquivosPastas\obj\Debug\manipulacaoArquivosPastas.exe.config

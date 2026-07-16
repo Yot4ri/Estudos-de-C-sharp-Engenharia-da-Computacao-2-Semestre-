@@ -1,0 +1,10 @@
+Z:\EC2\projetosC#\atividadeDiagnostica\atividadeDiagnostica\bin\Debug\atividadeDiagnostica.exe.config
+Z:\EC2\projetosC#\atividadeDiagnostica\atividadeDiagnostica\bin\Debug\atividadeDiagnostica.exe
+Z:\EC2\projetosC#\atividadeDiagnostica\atividadeDiagnostica\bin\Debug\atividadeDiagnostica.pdb
+Z:\EC2\projetosC#\atividadeDiagnostica\atividadeDiagnostica\obj\Debug\atividadeDiagnostica.csproj.AssemblyReference.cache
+Z:\EC2\projetosC#\atividadeDiagnostica\atividadeDiagnostica\obj\Debug\atividadeDiagnostica.csproj.CoreCompileInputs.cache
+Z:\EC2\projetosC#\atividadeDiagnostica\atividadeDiagnostica\obj\Debug\atividadeDiagnostica.exe
+Z:\EC2\projetosC#\atividadeDiagnostica\atividadeDiagnostica\obj\Debug\atividadeDiagnostica.pdb
+Z:\EC2\projetosC#\atividadeDiagnostica\atividadeDiagnostica\obj\Debug\atividadeDiagnostica.exe.config
+c:\Users\Admin\Desktop\projetosC#\atividadeDiagnostica\atividadeDiagnostica\obj\Debug\atividadeDiagnostica.exe
+c:\Users\Admin\Desktop\projetosC#\atividadeDiagnostica\atividadeDiagnostica\obj\Debug\atividadeDiagnostica.pdb

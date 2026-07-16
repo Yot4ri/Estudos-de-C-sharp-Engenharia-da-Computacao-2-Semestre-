@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\EC2\\projetosC#\\trabalhandoComFuncoes\\trabalhandoComFuncoes\\carteiraCriptomoeda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86D196F3-95D3-4483-978C-2412743AB5ED}|carteiraCriptomoeda\\carteiraCriptomoeda.csproj|z:\\ec2\\projetosc#\\trabalhandocomfuncoes\\trabalhandocomfuncoes\\carteiracriptomoeda\\carteiracriptomoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D196F3-95D3-4483-978C-2412743AB5ED}|carteiraCriptomoeda\\carteiraCriptomoeda.csproj|solutionrelative:carteiracriptomoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\EC2\\projetosC#\\trabalhandoComFuncoes\\trabalhandoComFuncoes\\carteiraCriptomoeda\\carteiraCriptomoeda\\Program.cs",
+              "RelativeDocumentMoniker": "carteiraCriptomoeda\\Program.cs",
+              "ToolTip": "Z:\\EC2\\projetosC#\\trabalhandoComFuncoes\\trabalhandoComFuncoes\\carteiraCriptomoeda\\carteiraCriptomoeda\\Program.cs*",
+              "RelativeToolTip": "carteiraCriptomoeda\\Program.cs*",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAALEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:28:46.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

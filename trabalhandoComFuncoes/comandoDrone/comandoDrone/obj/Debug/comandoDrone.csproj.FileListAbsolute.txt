@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\comandoDrone\comandoDrone\bin\Debug\comandoDrone.exe.config
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\comandoDrone\comandoDrone\bin\Debug\comandoDrone.exe
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\comandoDrone\comandoDrone\bin\Debug\comandoDrone.pdb
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\comandoDrone\comandoDrone\obj\Debug\comandoDrone.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\comandoDrone\comandoDrone\obj\Debug\comandoDrone.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\comandoDrone\comandoDrone\obj\Debug\comandoDrone.exe
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\comandoDrone\comandoDrone\obj\Debug\comandoDrone.pdb

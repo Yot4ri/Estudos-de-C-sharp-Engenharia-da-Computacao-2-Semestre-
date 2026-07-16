@@ -1,0 +1,8 @@
+Z:\EC2\exercicioColecoes\exercicio4\exercicio4\bin\Debug\exercicio4.exe.config
+Z:\EC2\exercicioColecoes\exercicio4\exercicio4\bin\Debug\exercicio4.exe
+Z:\EC2\exercicioColecoes\exercicio4\exercicio4\bin\Debug\exercicio4.pdb
+Z:\EC2\exercicioColecoes\exercicio4\exercicio4\obj\Debug\exercicio4.csproj.AssemblyReference.cache
+Z:\EC2\exercicioColecoes\exercicio4\exercicio4\obj\Debug\exercicio4.csproj.CoreCompileInputs.cache
+Z:\EC2\exercicioColecoes\exercicio4\exercicio4\obj\Debug\exercicio4.exe
+Z:\EC2\exercicioColecoes\exercicio4\exercicio4\obj\Debug\exercicio4.pdb
+Z:\EC2\exercicioColecoes\exercicio4\exercicio4\obj\Debug\exercicio4.exe.config

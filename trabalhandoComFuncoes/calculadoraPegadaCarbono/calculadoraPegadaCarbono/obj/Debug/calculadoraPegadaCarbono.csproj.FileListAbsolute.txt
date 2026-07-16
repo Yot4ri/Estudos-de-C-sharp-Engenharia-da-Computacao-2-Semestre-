@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\calculadoraPegadaCarbono\calculadoraPegadaCarbono\bin\Debug\calculadoraPegadaCarbono.exe.config
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\calculadoraPegadaCarbono\calculadoraPegadaCarbono\bin\Debug\calculadoraPegadaCarbono.exe
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\calculadoraPegadaCarbono\calculadoraPegadaCarbono\bin\Debug\calculadoraPegadaCarbono.pdb
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\calculadoraPegadaCarbono\calculadoraPegadaCarbono\obj\Debug\calculadoraPegadaCarbono.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\calculadoraPegadaCarbono\calculadoraPegadaCarbono\obj\Debug\calculadoraPegadaCarbono.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\calculadoraPegadaCarbono\calculadoraPegadaCarbono\obj\Debug\calculadoraPegadaCarbono.exe
+C:\Users\Admin\Desktop\codigosC#\trabalhandoComFuncoes\calculadoraPegadaCarbono\calculadoraPegadaCarbono\obj\Debug\calculadoraPegadaCarbono.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\codigosC#\\trabalhandoComFuncoes\\agendadorConteudo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57D70629-0477-42C2-8592-C03E4BC2FC21}|agendadorConteudo\\agendadorConteudo.csproj|c:\\users\\admin\\desktop\\codigosc#\\trabalhandocomfuncoes\\agendadorconteudo\\agendadorconteudo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D70629-0477-42C2-8592-C03E4BC2FC21}|agendadorConteudo\\agendadorConteudo.csproj|solutionrelative:agendadorconteudo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 287,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\codigosC#\\trabalhandoComFuncoes\\agendadorConteudo\\agendadorConteudo\\Program.cs",
+              "RelativeDocumentMoniker": "agendadorConteudo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\codigosC#\\trabalhandoComFuncoes\\agendadorConteudo\\agendadorConteudo\\Program.cs",
+              "RelativeToolTip": "agendadorConteudo\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAArwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:54:37.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
