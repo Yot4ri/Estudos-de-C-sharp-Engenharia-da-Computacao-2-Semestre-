@@ -4,7 +4,7 @@ Repositório destinado ao armazenamento dos exercícios, exemplos e atividades d
 
 Além de servir como registro da evolução acadêmica, este repositório também funciona como material de consulta para revisões e estudos futuros.
 
-> **Execução:** Os exercícios foram desenvolvidos para execução em ambiente de terminal, utilizando o terminal integrado do Visual Studio Code.
+> **Execução:** Os exercícios foram desenvolvidos para execução em ambiente de terminal, utilizando o terminal integrado do Visual Studio.
 
 > **Observação:** este repositório possui finalidade exclusivamente acadêmica e reúne atividades propostas ao longo da disciplina.
 
@@ -46,7 +46,7 @@ Atualmente o repositório contém atividades relacionadas a:
 
 - C#
 - .NET
-- Visual Studio Code
+- Visual Studio
 
 ---
 
